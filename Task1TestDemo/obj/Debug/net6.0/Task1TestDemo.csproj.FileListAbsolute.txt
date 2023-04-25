@@ -1,0 +1,15 @@
+G:\Git\C#SA\Task1TestDemo\obj\Debug\net6.0\Task1TestDemo.csproj.AssemblyReference.cache
+G:\Git\C#SA\Task1TestDemo\obj\Debug\net6.0\Task1TestDemo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\C#SA\Task1TestDemo\obj\Debug\net6.0\Task1TestDemo.AssemblyInfoInputs.cache
+G:\Git\C#SA\Task1TestDemo\obj\Debug\net6.0\Task1TestDemo.AssemblyInfo.cs
+G:\Git\C#SA\Task1TestDemo\obj\Debug\net6.0\Task1TestDemo.csproj.CoreCompileInputs.cache
+G:\Git\C#SA\Task1TestDemo\bin\Debug\net6.0\Task1TestDemo.exe
+G:\Git\C#SA\Task1TestDemo\bin\Debug\net6.0\Task1TestDemo.deps.json
+G:\Git\C#SA\Task1TestDemo\bin\Debug\net6.0\Task1TestDemo.runtimeconfig.json
+G:\Git\C#SA\Task1TestDemo\bin\Debug\net6.0\Task1TestDemo.dll
+G:\Git\C#SA\Task1TestDemo\bin\Debug\net6.0\Task1TestDemo.pdb
+G:\Git\C#SA\Task1TestDemo\obj\Debug\net6.0\Task1TestDemo.dll
+G:\Git\C#SA\Task1TestDemo\obj\Debug\net6.0\refint\Task1TestDemo.dll
+G:\Git\C#SA\Task1TestDemo\obj\Debug\net6.0\Task1TestDemo.pdb
+G:\Git\C#SA\Task1TestDemo\obj\Debug\net6.0\Task1TestDemo.genruntimeconfig.cache
+G:\Git\C#SA\Task1TestDemo\obj\Debug\net6.0\ref\Task1TestDemo.dll
